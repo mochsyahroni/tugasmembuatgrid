@@ -1,0 +1,46 @@
+.col1{
+  background-color: grey;
+  width: 300px;
+  height:200px;
+  margin-left: 100px;
+}
+
+.col2{
+  background-color: grey;
+  width: 650px;
+  height: 200px;
+  margin-left: 450px;
+  margin-top: -200px;
+}
+
+.col3{
+  background-color: grey;
+  width: 300px;
+  height: 500px;
+  margin-top: 50px;
+  margin-left: 100px;
+}
+
+.col4{
+  background-color: grey;
+  width: 300px;
+  height: 200px;
+  margin-left: 450px;
+  margin-top: -500px;
+}
+
+.col5{
+  background-color: grey;
+  width: 300px;
+  height: 200px;
+  margin-left: 800px;
+  margin-top: -200px;
+}
+
+.col6{
+  background-color: grey;
+  width: 650px;
+  height: 200px;
+  margin-left: 450px;
+  margin-top: 50px;
+}
